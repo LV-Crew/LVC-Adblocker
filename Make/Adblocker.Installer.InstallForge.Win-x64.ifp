@@ -1,7 +1,7 @@
 [Header]
 ProjectFileVersion = "1.1"
 [General]
-Program name = HostsManager
+Program name = Adblocker
 Program version = 2017.10.20a
 Windows 2000 = 0
 Windows XP = 0
@@ -27,7 +27,7 @@ Windows style = 1
 XpStyle = 1
 [Files]
 Include Zipfile = 0
-Zipfile = C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.zip
+Zipfile = C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.zip
 Installation path = C:\Program Files\<company>\<appname>\
 Autcip = 1
 [Uninstall]
@@ -41,7 +41,7 @@ Licence dialog = 1
 Sart program = 1
 Reboot computer = 0
 Execute DLL: = 0
-Program = <installpath>\LV-Crew.HostsManager.exe
+Program = <installpath>\LV-Crew.Adblocker.exe
 ProgramArguments = 
 Dll = 
 [Shortcuts]
@@ -57,7 +57,7 @@ Time = 2
 PlaySound = 0
 Allow = 0
 [Build]
-File = C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.InstallForge.exe
+File = C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.InstallForge.exe
 [Updater]
 Allow = 0
 1 = <appname>
@@ -73,41 +73,41 @@ Execdlls = 0
 [Languages]
 3
 [Files/Dirs]
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\certutil\
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\certutil\
 n/a
 [Folder]
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\BGND.wav
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\BGND.wav
 12.9 MB
 wav
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\Branding.ini
-291 Byte
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Branding.ini
+279 Byte
 ini
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\cert.pem
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\cert.pem
 1.2 KB
 pem
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\Default_hosts.tpl
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Default_hosts.tpl
 760 Byte
 tpl
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\License.rtf
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\License.rtf
 83.8 KB
 rtf
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\LV-Crew.HostsManager.Banner.png
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\LV-Crew.Adblocker.Banner.png
 29.2 KB
 png
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\LV-Crew.HostsManager.exe
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\LV-Crew.Adblocker.exe
 239 KB
 exe
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\LV-Crew.HostsManager.Icon.ico
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\LV-Crew.Adblocker.Icon.ico
 54 KB
 ico
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\LV-Crew.HostsManager.Logo.png
-107.3 KB
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\LV-Crew.Adblocker.Logo.png
+106.2 KB
 png
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\Readme.html
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Readme.html
 4.3 KB
 html
-C:\Users\Administrator\Documents\GitHub\HostsManager\Packages\Win-x64.Archive\README.md
-2.4 KB
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\README.md
+261 Byte
 md
 [Licence_Begin]
 38636
@@ -812,10 +812,16 @@ INTERNAL
 [Variables]
 [SCs]
 Startmenu
-LV-Crew.HostsManager
-<installpath>\LV-Crew.HostsManager.exe
+LV-Crew Adblocker
+<installpath>\LV-Crew.Adblocker.exe
 
-<installpath>\LV-Crew.HostsManager.Icon.ico
+<installpath>\LV-Crew.Adblocker.Icon.ico
+0
+Desktop
+LV-Crew Adblocker
+<installpath>\LV-Crew.Adblocker.exe
+
+<installpath>\LV-Crew.Adblocker.Icon.ico
 0
 [IFP_End]
 [Serials]
