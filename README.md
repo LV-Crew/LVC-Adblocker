@@ -1,6 +1,6 @@
 # Adblocker
 Perhaps the smallest system-wide Adblocker ever!<br>
-A Clone of HostsManager from LVC<br>
+A Clone of HostsManager from LVC!<br>
 (https://github.com/LV-Crew/HostsManager)<br>
 (Always latest stable version.)<br>
 <br>
