@@ -2,7 +2,7 @@
 ProjectFileVersion = "1.1"
 [General]
 Program name = Adblocker
-Program version = 2017.10.30a
+Program version = 2017.11.23a
 Windows 2000 = 0
 Windows XP = 0
 Windows Server 2003 = 0
@@ -76,9 +76,6 @@ Execdlls = 0
 C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\certutil\
 n/a
 [Folder]
-C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\BGND.wav
-12.9 MB
-wav
 C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Branding.ini
 279 Byte
 ini
@@ -109,6 +106,18 @@ html
 C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\README.md
 261 Byte
 md
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\bass.dll
+225.5 KB
+dll
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Bass.Net.dll
+660 KB
+dll
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\Bass.Net.xml
+5 MB
+xml
+C:\Users\Administrator\Documents\GitHub\Adblocker\Packages\Win-x64.Archive\CORE_-_Simpukka_chilli.xm
+28.5 KB
+xm
 [Licence_Begin]
 38636
 {\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}
