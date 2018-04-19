@@ -39,13 +39,13 @@ echo.
 echo copy .\README.md .\Packages\Win.Setup\
 copy .\README.md .\Packages\Win.Setup\
 echo.
-echo copy .\docs\readme.html .\Packages\Win-x64.Archive\Readme.html
+echo copy .\docs.VPS\readme.html .\Packages\Win-x64.Archive\Readme.html
 copy .\docs\readme.html .\Packages\Win-x64.Archive\Readme.html
 echo.
-echo copy .\docs\readme.html .\Packages\Win-x86.Archive\Readme.html
+echo copy .\docs.VPS\readme.html .\Packages\Win-x86.Archive\Readme.html
 copy .\docs\readme.html .\Packages\Win-x86.Archive\Readme.html
 echo.
-echo copy .\docs\readme.html .\Packages\Win.Setup\Readme.html
+echo copy .\docs.VPS\readme.html .\Packages\Win.Setup\Readme.html
 copy .\docs\readme.html .\Packages\Win.Setup\Readme.html
 echo.
 echo copy ..\HostsManager\License.rtf .\Packages\Win-x64.Archive\
